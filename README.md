@@ -1,1 +1,1 @@
-# Using Redis to achieve the function of distribution lock
+Using Redis to achieve the function of distribution lock
